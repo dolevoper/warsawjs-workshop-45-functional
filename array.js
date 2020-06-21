@@ -1,5 +1,3 @@
-const { memberExpression } = require("@babel/types");
-
 exports.head = ([first]) => first;
 exports.tail = (arr) => arr[arr.length - 1];
 
