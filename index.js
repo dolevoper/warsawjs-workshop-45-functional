@@ -1,0 +1,1 @@
+exports.bind = (fn, thisArg, preArgs = []) => (...args) => fn.call(thisArg, ...preArgs, ...args);

@@ -1,0 +1,24 @@
+{
+  "name": "warsawjs-workshop-45-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolevoper/warsawjs-workshop-45-functional.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolevoper/warsawjs-workshop-45-functional/issues"
+  },
+  "homepage": "https://github.com/dolevoper/warsawjs-workshop-45-functional#readme"
+}
