@@ -1,4 +1,4 @@
-const { bind, apply } = require('./index');
+const { bind, apply } = require('./function');
 
 describe('bind', () => {
     test('shoud return a function', () => {
